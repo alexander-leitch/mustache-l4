@@ -1,5 +1,5 @@
 {
-    "name": "mustache/mustache",
+    "name": "alexander-leitch/mustache-l4",
     "description": "A Laravel 4 wrapper for the Mustache implementation in PHP.",
     "keywords": ["templating", "mustache", "wrapper"],
     "homepage": "https://github.com/alexander-leitch/mustache-l4",
