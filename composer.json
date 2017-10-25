@@ -5,6 +5,7 @@
     "homepage": "https://github.com/alexander-leitch/mustache-l4",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Justin Hileman",
